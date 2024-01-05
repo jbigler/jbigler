@@ -22,8 +22,6 @@ I am a citizen of the Unitest States currently residing in Hanoi, Vietnam 🍜 w
 ## Objective
 To secure a remote position that offers the opportunity to use my experience and technical know-how, as well as continue growing in knowledge and as a person.
 
-## Contact
-Email: jeff(dot)bigler@gmail(dot)com
 
 <!--
 **jbigler/jbigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
