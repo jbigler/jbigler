@@ -14,7 +14,7 @@ Since then I have kept up with the ever-changing technological landscape while p
 - Early education program advisor 💼
 - Digital and traditional media artist 🎨
 
-I have always derived great pleaure from solving problems for clients through research and creative thinking.
+I have always derived great pleasure from solving problems for clients through research and creative thinking.
 In the late 90s I fell in love with the Ruby language, and later the Ruby on Rails framework, and greatly enjoy using it to create web applications to meet client needs. I believe in the importance of continuous learning and implementing best practices such as testing, version control, and working closely with others to create reliable software.
 
 I am a citizen of the Unitest States currently residing in Hanoi, Vietnam 🍜 with my family.
